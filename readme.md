@@ -19,4 +19,7 @@
 * labels = roboshop
 * add crendentials 
 
+* create a pipeline by addin new item
+* 
+
 
