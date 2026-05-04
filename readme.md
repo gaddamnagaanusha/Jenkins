@@ -13,4 +13,10 @@
 * sudo cat <link showing in the web>
 * install plugins
 
+* install pipeline stage view plugin
+* Add node (roboshop)
+* remote root directory - > /home/ec2-user/jenkins-agent
+* labels = roboshop
+* add crendentials 
+
 
