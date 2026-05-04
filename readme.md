@@ -1,6 +1,6 @@
 ## Jenkins installation:
 
-* sudo curl -O /etc/yum.repos.d/jenkins.repo \   https://pkg.jenkins.io/rpm/jenkins.repo
+* sudo curl -o /etc/yum.repos.d/jenkins.repo \   https://pkg.jenkins.io/rpm/jenkins.repo
 * sudo yum install fontconfig java-21-openjdk -y
 * sudo yum install jenkins
 * sudo systemctl daemon-reload
